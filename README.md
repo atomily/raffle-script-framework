@@ -1,2 +1,2 @@
 # raffle-script-framework
-Use this as a framework for creating raffle scripts, supports proxies, multiple emails, multithreading, and doesn't use gmail allias which limits you to 30 emails per site
+Use this as a framework for creating raffle scripts for websites such as shiekl, and whatever else you want. This was originally created since people are creating scripts that use the gmail alias feature but don't know that they limit it to 30 alias per site. This takes advantage over the dot trick and creates a framework that allows you to set multiple proxies such as ipv4 and ipv6 per email account and supports running as many gmail accounts as you want through the json file. 
